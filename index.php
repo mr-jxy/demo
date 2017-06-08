@@ -1,3 +1,7 @@
 <?php
-echo '你好 世界';
+<<<<<<< HEAD
+echo 'hello worlld';
+=======
+echo 'hello worlld';
+>>>>>>> dev
 ?>
